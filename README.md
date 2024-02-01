@@ -10,6 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   Dicord: gosmachine
+</p>
+<p align="left">
   Email: gosmachin3@gmail.com
 </p>
 
