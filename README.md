@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm GosMachine</h1>
 <h3 align="center">A backend developer from Ukraine.</h3>
 
-<p>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=GosMachine&label=Profile%20Views&color=1&icon=2&pretty=true" />
-  </a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=GosMachine&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
