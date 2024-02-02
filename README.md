@@ -17,6 +17,8 @@
 </p>
 
 <h3>Backend:</h3>
+<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker">
+<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-kubernetes-090909?style=for-the-badge&logo=kubernetes">
 <img style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Graphql-090909?style=for-the-badge&logo=graphql&logoColor=e535ab">
 
 <hr/>
@@ -26,7 +28,7 @@
 
 <hr/>
 <h3>Databases: </h3>
-<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=090909&logo=MongoDB&logoColor=47A248&label="/>
+<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=090909&logo=MongoDB&label="/>
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis">
 <img style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql">
 
@@ -40,6 +42,7 @@
 
 <hr/>
 <h3>Skills: </h3>
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-arch linux-090909?style=for-the-badge&logo=archlinux">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git">
 <img style="margin-right:15px" src="https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github">
 <!-- <br/> -->
