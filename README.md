@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm GosMachine</h1>
 <h3 align="center">A backend developer from Ukraine.</h3>
 
-[![](https://visitcount.itsvg.in/api?id=GosMachine&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<!-- <a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=GosMachine&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>-->
+
+![](https://komarev.com/ghpvc/?username=GosMachine&color=green)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
