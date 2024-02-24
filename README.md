@@ -18,6 +18,7 @@
 
 <h3>Backend:</h3>
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker">
+<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-rabbitmq-090909?style=for-the-badge&logo=rabbitmq">
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-kubernetes-090909?style=for-the-badge&logo=kubernetes">
 <img style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Graphql-090909?style=for-the-badge&logo=graphql&logoColor=e535ab">
 
@@ -44,6 +45,7 @@
 <h3>Skills: </h3>
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-arch linux-090909?style=for-the-badge&logo=archlinux">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux">
 <img style="margin-right:15px" src="https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github">
 <!-- <br/> -->
 <!-- <br/> -->
